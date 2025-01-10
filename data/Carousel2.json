@@ -1,0 +1,17 @@
+[
+    {
+        "id": "Personalized",
+        "title": "Active involvement with personalized, professional advice",
+        "body": "Play an active role in your portfolio’s investment management decisions while receiving research, insights and advice from your Wealth Advisor. Fees for wealth management services are charged differently depending on the platform.\n\nAccount options include:\nPartnership Plus – A non-discretionary fee-based program best suited for clients who rely predominantly on their Advisor for advice. A quarterly fee covers consultation and advice, a limited number of trades commensurate with account size, and annual registered plan administrative costs.\ni:Partner – A non-discretionary fee-based asset management program designed for clients who are actively involved in the day-to-day investment management decisions of their account, supported by their Advisor’s guidance. This program blends full-service and online brokerage accounts into one fee-based account, offering the flexibility of a full suite of online investment services.\nThe Pinnacle Program – A family of Scotia Wealth Pool Funds managed by leading names in institutional and pension fund management. Each money manager is selected and monitored by Northern Trust Global Asset Management, a leading investment management consultant. Fees are charged based upon the amount and type of assets managed in the account."
+    },
+    {
+        "id": "Moderated",
+        "title": "Moderate involvement portfolio programs",
+        "body": "Your Wealth Advisor can help you select from a broad range of investment management solutions offered by proprietary and third-party money managers to craft a portfolio and strategy tailored to your unique individual or family needs.\n\nThese include:\nThe Summit Program – Asset management is performed on a discretionary basis, featuring skilled external money managers managing a variety of investment mandates. Each money manager is selected and monitored by Northern Trust Asset Management, a leading investment management consultant. A single wealth management fee covers investment management, ongoing due diligence and monitoring of the money managers and the investment mandates, custody, trading costs and detailed reporting.\nScotiaMcLeod Investment Portfolios – Asset management is performed on a discretionary basis by 1832 Asset Management L.P. and Jarislowsky, Fraser Limited, affiliates of Scotiabank. Clients benefit from experienced investment management with rigorous risk management and compliance infrastructure. One all-inclusive fee covers investment management, ongoing due-diligence and monitoring, and custody and trading costs, and is calculated as a percentage of your portfolio’s total assets."
+    },
+    {
+        "id": "Managed",
+        "title": "Discretionary investment management services",
+        "body": "The Managed Portfolio Program – A customized investment portfolio managed on a discretionary basis by an Advisor with specific portfolio management credentials. The Portfolio Manager will complete a personalized Investment Policy Statement that clearly outlines your investment objectives. A single wealth management fee covers investment management, monitoring, custody and trading costs.\n\nFor clients who prefer to delegate the day-to-day investment decisions to an experienced wealth management professional, with portfolio management credentials, giving you more time and freedom to focus on your family, career or other important pursuits."
+    }
+]
