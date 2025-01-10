@@ -1,6 +1,6 @@
 // --------- FXNALITY ---------
 import express from "express";
-// import cors from "cors";
+import cors from "cors";
 import "dotenv/config";
 import proxy from "./proxy/proxy.js";
 // ---------- ROUTES ----------
@@ -11,7 +11,7 @@ const app = express();
 const PORT = process.env.PORT || 8081;
 
 // Middleware
-// app.use(cors());
+app.use(cors());
 app.use(express.json());
 
 // ROUTES
